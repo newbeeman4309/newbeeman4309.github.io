@@ -7,14 +7,14 @@
 
 &emsp;&emsp;本人于2021年7月毕业于广州大学，获得机械设计制造及其自动化学士学位并以推荐免试方式进入广州大学攻读机械设计及理论研究型硕士研究生。在本科阶段，本人以绩点排名专业第一（排位1/186，绩点3.97/5.0）毕业且获得广州大学本科优秀毕业论文；在硕士研究生阶段继续保持严谨、认真的科研态度，截至目前本人研究生课程绩点排名第一（排位1/82，绩点3.99/5.0）。
 
-&emsp;&emsp;本人对拓扑优化、并联机器人、软体机器人及其传感、机器学习拥有强烈的兴趣，并已在国际顶级SCI期刊<b><i>Computer Methods in Applied Mechanics and Engineering</i></b>（中科院一区TOP）、<b><i>Mechanism and Machine Theory</i></b>（中科院一区TOP）等发表原创型研究论文。
+&emsp;&emsp;本人对拓扑优化、并联机器人、软体机器人及其传感、柔顺机构、机器学习等拥有强烈的兴趣，并已在国际顶级SCI期刊<b><i>Computer Methods in Applied Mechanics and Engineering</i></b>（中科院一区TOP）、<b><i>Mechanism and Machine Theory</i></b>（中科院一区TOP）等发表研究论文。
 
 ---
 
 ### <img src="/news.jpg" width="18px">  Latest News
-- 2023.02: 一篇研究论文被CMAME接收
-- 2023.01: 开创新研究领域：机器学习与拓扑优化
-- 2022.09: 一篇研究论文投稿至CMAME
+- 2023.02: 一篇论文被CMAME接收
+- 2023.01: 开创新研究领域：机器学习与力学
+- 2022.09: 一篇论文投稿至CMAME
 
 ---
 ### <img src="/publication.jpg" width="18px">  已出版文章
