@@ -17,6 +17,7 @@
 - 2022.09: 一篇论文投稿至CMAME
 
 ---
+
 ### <img src="/publication.jpg" width="18px">  已出版文章
 #### <img src="/journal.jpg" width="18px">  期刊论文
 <ul>
@@ -36,6 +37,7 @@
 
 #### <img src="/conference.jpg" width="18px">  会议论文
 - <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
+
 ---
 
 ### <img src="/award.jpg" width="18px">  荣誉与奖项
@@ -46,6 +48,7 @@
 - 2020.09 广州大学本科生二等奖学金
 - 2019.09 广州大学本科生一等奖学金
 - 2018.09 广州大学本科生一等奖学金
+
 ---
 
 ### <img src="/education.jpg" width="18px">  学习经历
