@@ -4,10 +4,6 @@
 ---
 
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>导航栏</title>
-	</head>
 	<body>
 		<nav>
 			<a href="#">首页</a>
