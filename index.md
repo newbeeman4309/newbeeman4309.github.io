@@ -4,10 +4,10 @@
 			<a href="https://kx-liang.github.io">English Version</a>
 			<a href="#">首页</a>
 			<a href="#introduction">个人简介</a>
-			<a href="#">学习经历</a>
-			<a href="#">最新消息</a>
-			<a href="#">个人成果</a>
-			<a href="#">荣誉与奖项</a>
+			<a href="#education">学习经历</a>
+			<a href="#news">最新消息</a>
+			<a href="#publication">个人成果</a>
+			<a href="#honor">荣誉与奖项</a>
 		</nav>
 	</body>
 </html>
@@ -26,21 +26,21 @@
 
 ---
 
-### <img src="/education.jpg" width="18px">  学习经历
+### <h3 id="education"> <img src="/education.jpg" width="18px">  学习经历
 - 2021.09至今，硕士，广州大学 (排名: 1/82 绩点: 3.99/5.0)
 - 2019.08，人工智能与机器人项目，华盛顿大学，西雅图
 - 2017.09-2021.07，学士，广州大学 (排名: 1/168 绩点: 3.97/5.0)
 
 ---
 
-### <img src="/news.jpg" width="18px">  最新消息
+### <h3 id="news"> <img src="/news.jpg" width="18px">  最新消息
 - 2023.02: 一篇论文被CMAME接收
 - 2023.01: 进入新研究领域：机器学习与力学
 - 2022.09: 一篇论文投稿至CMAME
 
 ---
 
-### <img src="/publication.jpg" width="18px">  个人成果
+### <h3 id="publication"> <img src="/publication.jpg" width="18px">  个人成果
 #### <img src="/journal.jpg" width="18px">  期刊论文
 <ul>
   
@@ -62,7 +62,7 @@
 
 ---
 
-### <img src="/award.jpg" width="18px">  荣誉与奖项
+### <h3 id="honor"> <img src="/award.jpg" width="18px">  荣誉与奖项
 - 2022.09 广州大学研究生三等奖学金
 - 2021.09 广州大学研究生特等奖学金
 - 2021.06 广州大学优秀本科毕业论文
