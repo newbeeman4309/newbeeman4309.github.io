@@ -1,7 +1,7 @@
 <html>
 	<body>
 		<nav>
-			<a href="#">主页</a>
+			<a href="https://kx-liang.github.io">English Version</a>
 			<a href="#introduction">个人简介</a>
 			<a href="#education">学习经历</a>
 			<a href="#news">最新消息</a>
@@ -14,7 +14,6 @@
 ---
 
 <img src="/introduction in chinese.jpg" width="100%">
-<p><a href="https://kx-liang.github.io">English Version</a></p>
 
 ---
 
