@@ -2,7 +2,7 @@
 	<body>
 		<nav>
 			<a href="https://kx-liang.github.io">English Version</a>
-			<a href="#">首页</a>
+			<a href="#"><img src="/zhuye.png" width="18px"></a>
 			<a href="#introduction">个人简介</a>
 			<a href="#education">学习经历</a>
 			<a href="#news">最新消息</a>
