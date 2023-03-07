@@ -7,7 +7,6 @@
 			<a href="#">最新消息</a>
 			<a href="#">个人成果</a>
 			<a href="#">荣誉与奖项</a>
-			
 		</nav>
 	</body>
 </html>
