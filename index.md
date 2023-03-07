@@ -1,8 +1,8 @@
 <html>
 	<body>
 		<nav>
-			<a href="https://kx-liang.github.io">English Version</a>
-			<a href="#introduction">个人简介</a>
+			<a href="https://kx-liang.github.io"><b>English Version</b></a>
+			<a href="#introduction"><b>个人简介</b></a>
 			<a href="#education">学习经历</a>
 			<a href="#news">最新消息</a>
 			<a href="#publication">个人成果</a>
