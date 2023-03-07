@@ -3,10 +3,10 @@
 		<nav>
 			<a href="https://kx-liang.github.io"><b>English Version</b></a>
 			<a href="#introduction"><b>个人简介</b></a>
-			<a href="#education">学习经历</a>
-			<a href="#news">最新消息</a>
-			<a href="#publication">个人成果</a>
-			<a href="#honor">荣誉与奖项</a>
+			<a href="#education"><b>学习经历</b></a>
+			<a href="#news"><b>最新消息</b></a>
+			<a href="#publication"><b>个人成果</b></a>
+			<a href="#honor"><b>荣誉与奖项</b></a>
 		</nav>
 	</body>
 </html>
