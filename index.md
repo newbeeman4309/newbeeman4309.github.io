@@ -33,14 +33,14 @@
 
 ---
 
-### <h3 id="news"> <img src="/news.jpg" width="18px">  最新消息
+<h3 id="news"> <img src="/news.jpg" width="18px"> 最新消息</h3>
 - 2023.02: 一篇论文被CMAME接收
 - 2023.01: 进入新研究领域：机器学习与力学
 - 2022.09: 一篇论文投稿至CMAME
 
 ---
 
-### <h3 id="publication"> <img src="/publication.jpg" width="18px">  个人成果
+<h3 id="publication"> <img src="/publication.jpg" width="18px"> 个人成果</h3>
 #### <img src="/journal.jpg" width="18px">  期刊论文
 <ul>
   
@@ -62,7 +62,7 @@
 
 ---
 
-### <h3 id="honor"> <img src="/award.jpg" width="18px">  荣誉与奖项
+<h3 id="honor"> <img src="/award.jpg" width="18px"> 荣誉与奖项</h3>
 - 2022.09 广州大学研究生三等奖学金
 - 2021.09 广州大学研究生特等奖学金
 - 2021.06 广州大学优秀本科毕业论文
@@ -71,7 +71,6 @@
 - 2019.09 广州大学本科生一等奖学金
 - 2018.09 广州大学本科生一等奖学金
 
----
 
 
 
