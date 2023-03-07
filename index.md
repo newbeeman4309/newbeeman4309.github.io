@@ -1,7 +1,7 @@
 <html>
 	<body>
 		<nav>
-			<a href="https://kx-liang.github.io">English Version</a>
+			
 			<a href="#"><img src="/zhuye.png" width="100px"></a>
 			<a href="#introduction">个人简介</a>
 			<a href="#education">学习经历</a>
@@ -15,10 +15,11 @@
 ---
 
 <img src="/introduction in chinese.jpg" width="100%">
+<p><a href="https://kx-liang.github.io">English Version</a></p>
 
 ---
 
-###  <h3 id="introduction"> <img src="/biography.jpg" width="18px"> 个人简介</h3>
+<h3 id="introduction"> <img src="/biography.jpg" width="18px"> 个人简介</h3>
 
 &emsp;&emsp;本人于2021年7月毕业于广州大学，获得机械设计制造及其自动化学士学位并以推荐免试方式进入广州大学攻读机械设计及理论研究型硕士研究生。在本科阶段，本人以绩点排名专业第一（排位1/168，绩点3.97/5.0）毕业且获得广州大学本科优秀毕业论文；在硕士研究生阶段继续保持严谨、认真的科研态度，截至目前本人研究生课程绩点排名第一（排位1/82，绩点3.99/5.0）。
 
@@ -26,7 +27,7 @@
 
 ---
 
-### <h3 id="education"> <img src="/education.jpg" width="18px">  学习经历
+<h3 id="education"> <img src="/education.jpg" width="18px"> 学习经历</h3>
 - 2021.09至今，硕士，广州大学 (排名: 1/82 绩点: 3.99/5.0)
 - 2019.08，人工智能与机器人项目，华盛顿大学，西雅图
 - 2017.09-2021.07，学士，广州大学 (排名: 1/168 绩点: 3.97/5.0)
