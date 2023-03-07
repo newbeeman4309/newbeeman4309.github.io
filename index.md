@@ -1,8 +1,7 @@
 <html>
 	<body>
 		<nav>
-			
-			<a href="#"><img src="/zhuye.png" width="100px"></a>
+			<a href="#">主页</a>
 			<a href="#introduction">个人简介</a>
 			<a href="#education">学习经历</a>
 			<a href="#news">最新消息</a>
