@@ -1,20 +1,3 @@
-<div class="topbar-container">
-    <div class="topbar-wrap">
-        <div class="nav">
-            <ul>
-                <li><a href="#">小米商场</a></li>
-                <li><a href="#">MIUI</a></li>
-                <li><a href="#">米聊</a></li>
-                <li><a href="#">游戏</a></li>
-                <li><a href="#">多看阅读</a></li>
-                <li><a href="#">云服务</a></li>
-                <li><a href="#">金融</a></li>
-                <li><a href="#">小米网移动版</a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-
 <html>
 	<body>
 		<nav>
