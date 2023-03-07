@@ -1,17 +1,21 @@
-<img src="/introduction in chinese.jpg" width="100%">
-<p><a href="https://kx-liang.github.io">English Version</a></p>
-
----
-
 <html>
 	<body>
 		<nav>
 			<a href="#">首页</a>
-			<a href="#">新闻</a>
-			<a href="#">关于我们</a>
+			<a href="#">个人简介</a>
+			<a href="#">学习经历</a>
+			<a href="#">最新消息</a>
+			<a href="#">个人成果</a>
+			<a href="#">荣誉与奖项</a>
+			
 		</nav>
 	</body>
 </html>
+
+---
+
+<img src="/introduction in chinese.jpg" width="100%">
+<p><a href="https://kx-liang.github.io">English Version</a></p>
 
 ---
 
@@ -23,14 +27,21 @@
 
 ---
 
-### <img src="/news.jpg" width="18px">  Latest News
+### <img src="/education.jpg" width="18px">  学习经历
+- 2021.09至今，硕士，广州大学 (绩点: 3.99/5.0)
+- 2019.08，人工智能与机器人项目，华盛顿大学，西雅图
+- 2017.09-2021.07，学士，广州大学 (排名: 1/168 绩点: 3.97/5.0)
+
+---
+
+### <img src="/news.jpg" width="18px">  最新消息
 - 2023.02: 一篇论文被CMAME接收
 - 2023.01: 进入新研究领域：机器学习与力学
 - 2022.09: 一篇论文投稿至CMAME
 
 ---
 
-### <img src="/publication.jpg" width="18px">  已出版文章
+### <img src="/publication.jpg" width="18px">  个人成果
 #### <img src="/journal.jpg" width="18px">  期刊论文
 <ul>
   
@@ -63,8 +74,5 @@
 
 ---
 
-### <img src="/education.jpg" width="18px">  学习经历
-- 2021.09至今，硕士，广州大学 (绩点: 3.99/5.0)
-- 2019.08，人工智能与机器人项目，华盛顿大学，西雅图
-- 2017.09-2021.07，学士，广州大学 (排名: 1/168 绩点: 3.97/5.0)
+
 
