@@ -1,3 +1,5 @@
+<img src="/introduction in chinese.jpg" width="100%">
+
 <html>
 	<body>
 		<nav>
@@ -10,10 +12,6 @@
 		</nav>
 	</body>
 </html>
-
----
-
-<img src="/introduction in chinese.jpg" width="100%">
 
 ---
 
